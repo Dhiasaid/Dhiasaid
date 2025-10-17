@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing skillsd**
 
-- 🌱 I’m currently learning **Assembly,shell scripting , python, c , low level kernel development**
+- 🌱 I’m currently learning **Assembly,shell scripting , python, c , low level programming**
 
 - 👨‍💻 All of my projects are available at [https://dhiasaid.netlify.app/?fbclid=IwZXh0bgNhZW0CMTEAAR0Oro8Q1GVTYDPBoVNlre3sZ97XHTi6X3hENka6qXIyF09M3dJYheD-l6s_aem_5pJ6OZGE8QYaNIP1TD-dBg](https://dhiasaid.netlify.app/?fbclid=IwZXh0bgNhZW0CMTEAAR0Oro8Q1GVTYDPBoVNlre3sZ97XHTi6X3hENka6qXIyF09M3dJYheD-l6s_aem_5pJ6OZGE8QYaNIP1TD-dBg)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhiasaid728@gmail.com**
 
-- ⚡ Fun fact **Tyga is my bestfriend**
+- ⚡ Fun fact **I love weed **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
