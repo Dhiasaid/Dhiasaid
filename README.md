@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing skillsd**
 
-- 🌱 I’m currently learning **python,web pentesting, active directory penstesting and preparing for CRTP certification**
+- 🌱 I’m currently learning **python,web pentesting, binary exploitation, active directory penstesting and preparing for CRTP certification**
 
 - 👨‍💻 All of my projects are available at [https://dhiasaid.netlify.app/?fbclid=IwZXh0bgNhZW0CMTEAAR0Oro8Q1GVTYDPBoVNlre3sZ97XHTi6X3hENka6qXIyF09M3dJYheD-l6s_aem_5pJ6OZGE8QYaNIP1TD-dBg](https://dhiasaid.netlify.app/?fbclid=IwZXh0bgNhZW0CMTEAAR0Oro8Q1GVTYDPBoVNlre3sZ97XHTi6X3hENka6qXIyF09M3dJYheD-l6s_aem_5pJ6OZGE8QYaNIP1TD-dBg)
 
