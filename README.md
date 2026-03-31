@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhiasaid728@gmail.com**
 
-- ⚡ Fun fact **I love weed**
+- ⚡ Fun fact **Ich liebe Rammstein**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
